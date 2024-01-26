@@ -3,6 +3,8 @@
 ## <a name="intro"></a> 📘 Introduction
 *aiCARE is an interactive chatbot framework that delivers well-established mental health surveys in the form of natural conversations and employs NLP and ML to infer Likert scale answers from users’ free-text responses.*
 
+#### More information at https://aicare.laboratorstiintecognitiveclinice.ro/
+
 ## <a name="citation"></a> 📖 Citation
 If you found our work useful, please cite our papers:
 
