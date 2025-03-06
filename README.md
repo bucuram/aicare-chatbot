@@ -21,13 +21,16 @@ Podina, I. R., Bucur, A. M., Fodor, L., & Boian, R. (2023). Screening for common
 }
 ```
 
-Boian, R., Bucur, A., Todea, D., Luca, A. I., Rebedea, T., & Podina, I. (2023, March 23). A conversational agent framework for mental health screening: Design, implementation, and usability. https://doi.org/10.31234/osf.io/t2r3z
+Boian, R., Bucur, A., Todea, D., Luca, A. I., Rebedea, T., & Podina, I. (2024). A conversational agent framework for mental health screening: Design, implementation, and usability. Behaviour & Information Technology, 1-15.
 
 ```
 @article{boian2023conversational,
   title={A conversational agent framework for mental health screening: Design, implementation, and usability},
   author={Boian, Rares and Bucur, Ana-Maria and Todea, Diana and Luca, Andreea Iuliana and Rebedea, Traian and Podina, Ioana},
-  publisher={PsyArXiv}
+  journal={Behaviour \& Information Technology},
+pages = {1--15},
+  year={2024},
+  publisher={Taylor \& Francis}
 }
 
 ```
