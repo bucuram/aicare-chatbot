@@ -28,7 +28,7 @@ Boian, R., Bucur, A., Todea, D., Luca, A. I., Rebedea, T., & Podina, I. (2024). 
   title={A conversational agent framework for mental health screening: Design, implementation, and usability},
   author={Boian, Rares and Bucur, Ana-Maria and Todea, Diana and Luca, Andreea Iuliana and Rebedea, Traian and Podina, Ioana},
   journal={Behaviour \& Information Technology},
-pages = {1--15},
+  pages = {1--15},
   year={2024},
   publisher={Taylor \& Francis}
 }
